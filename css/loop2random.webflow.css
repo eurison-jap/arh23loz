@@ -269,6 +269,7 @@ body {
 
 .downloadbutton {
   color: #fff;
+  cursor: pointer;
   text-align: center;
   letter-spacing: 2.5px;
   background-image: url('../images/button.gif');
